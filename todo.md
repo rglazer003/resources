@@ -1,0 +1,1 @@
+Clean up image layout on welcome.html once I learn floats, but them in a div and arrange them maybe.
